@@ -27,6 +27,7 @@
     "build": "tsdown",
     "dev": "tsdown --watch",
     "lint": "eslint",
+    "lint:fix": "eslint --fix",
     "prepublishOnly": "nr build",
     "release": "bumpp",
     "start": "tsx src/index.ts",
@@ -50,6 +51,7 @@
     "tsnapi": "catalog:testing",
     "tsx": "catalog:cli",
     "typescript": "catalog:cli",
+    "unrun": "catalog:",
     "vite": "catalog:cli",
     "vitest": "catalog:testing"
   },

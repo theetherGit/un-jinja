@@ -12,6 +12,11 @@ packages:
   - packages/*
   - examples/*
 
+allowBuilds:
+  esbuild: true
+  simple-git-hooks: true
+catalog:
+  unrun: ^0.3.0
 catalogs:
   cli:
     '@antfu/eslint-config': ^9.0.0
@@ -34,6 +39,3 @@ catalogs:
     vitest: ^4.1.6
   types:
     '@types/node': ^25.9.0
-allowBuilds:
-  esbuild: true
-  simple-git-hooks: true
