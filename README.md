@@ -2,8 +2,6 @@
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![bundle][bundle-src]][bundle-href]
-[![JSDocs][jsdocs-src]][jsdocs-href]
 [![License][license-src]][license-href]
 
 A runtime-agnostic, zero-dependency Jinja2 like template engine for JavaScript. Perfect for edge environments, Cloudflare Workers, browsers, and server-side runtimes.
@@ -188,13 +186,9 @@ export default {
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/un-jinja?style=flat&colorA=080f12&colorB=1fa669
-[npm-version-href]: https://npmx.dev/package/un-jinja
-[npm-downloads-src]: https://img.shields.io/npm/dm/un-jinja?style=flat&colorA=080f12&colorB=1fa669
-[npm-downloads-href]: https://npmx.dev/package/un-jinja
-[bundle-src]: https://img.shields.io/bundlephobia/minzip/un-jinja?style=flat&colorA=080f12&colorB=1fa669&label=minzip
-[bundle-href]: https://bundlephobia.com/result?p=un-jinja
+[npm-version-src]: https://img.shields.io/npm/v/@ethercorps/un-jinja?style=flat&colorA=080f12&colorB=1fa669
+[npm-version-href]: https://npmx.dev/package/@ethercorps/un-jinja
+[npm-downloads-src]: https://img.shields.io/npm/dm/@ethercorps/un-jinja?style=flat&colorA=080f12&colorB=1fa669
+[npm-downloads-href]: https://npmx.dev/package/@ethercorps/un-jinja
 [license-src]: https://img.shields.io/github/license/theetherGit/un-jinja.svg?style=flat&colorA=080f12&colorB=1fa669
 [license-href]: https://github.com/theetherGit/un-jinja/blob/main/LICENSE
-[jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
-[jsdocs-href]: https://www.jsdocs.io/package/un-jinja
