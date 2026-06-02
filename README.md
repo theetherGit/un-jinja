@@ -191,4 +191,4 @@ export default {
 [npm-downloads-src]: https://img.shields.io/npm/dm/@ethercorps/un-jinja?style=flat&colorA=080f12&colorB=1fa669
 [npm-downloads-href]: https://npmx.dev/package/@ethercorps/un-jinja
 [license-src]: https://img.shields.io/github/license/theetherGit/un-jinja.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/theetherGit/un-jinja/blob/main/LICENSE
+[license-href]: https://github.com/theetherGit/un-jinja/blob/main/LICENSE.md
