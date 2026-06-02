@@ -1,5 +1,5 @@
 {
-  "name": "un-jinja",
+  "name": "@ethercorps/un-jinja",
   "type": "module",
   "version": "0.1.0",
   "packageManager": "pnpm@11.1.3",
