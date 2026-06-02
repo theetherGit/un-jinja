@@ -1,7 +1,7 @@
 {
   "name": "@ethercorps/un-jinja",
   "type": "module",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "packageManager": "pnpm@11.1.3",
   "description": "A runtime-agnostic, zero-dependency Jinja2 like template engine for JS.",
   "author": "Shivam Meena <meenashivam9650@gmail.com>",
